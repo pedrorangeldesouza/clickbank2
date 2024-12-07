@@ -70,11 +70,3 @@ O programa gerencia usuários e contas de forma simples. Ele utiliza três lista
 ## Contribuições
 
 Contribuições são bem-vindas! Se você tiver melhorias ou sugestões, sinta-se à vontade para abrir um **issue** ou enviar um **pull request**.
-
-## Licença
-
-Este projeto está licenciado sob a MIT License - veja o arquivo [LICENSE](LICENSE) para mais detalhes.
-
----
-
-Desenvolvido por [Seu Nome](https://github.com/seu-usuario)
